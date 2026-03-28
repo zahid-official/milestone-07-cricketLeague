@@ -26,15 +26,15 @@
 
 ## 🛠️ Technologies Used
 
-| <div align="center">Technology</div>     | <div align="center">Version</div>  | <div align="center">Usage</div>                                                         |
-| ---------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------- |
-| <div align="center">React</div>          | <div align="center">^18.3.1</div>  | <div align="center">Builds the component-based user interface</div>                     |
-| <div align="center">JavaScript</div>     | <div align="center">ES6+</div>     | <div align="center">Handles application logic and interactivity</div>                   |
-| <div align="center">Vite</div>           | <div align="center">^8.0.3</div>   | <div align="center">Provides fast development server and production build tooling</div> |
-| <div align="center">Tailwind CSS</div>   | <div align="center">^3.4.14</div>  | <div align="center">Handles utility-first styling and responsive layout design</div>    |
-| <div align="center">DaisyUI</div>        | <div align="center">^4.12.13</div> | <div align="center">Supplies prebuilt UI components and utility patterns</div>          |
-| <div align="center">React Toastify</div> | <div align="center">^11.0.5</div>  | <div align="center">Displays toast notifications for user actions and validation</div>  |
-| <div align="center">React Icons</div>    | <div align="center">^5.3.0</div>   | <div align="center">Adds icon support to the interface</div>                            |
+| Technology           | Version                          | Purpose                                     |
+| :------------------- | :------------------------------- | :------------------------------------------ |
+| **React**            | `^18.3.1`                        | Component-based UI development              |
+| **JavaScript**       | `ES6+`                           | Application logic and interaction handling  |
+| **Tailwind CSS**     | `^3.4.14`                        | Utility-first styling and responsive layout |
+| **DaisyUI**          | `^4.12.13`                       | Prebuilt UI components and patterns         |
+| **Vite**             | `^8.0.3`                         | Fast development server and build tooling   |
+| **React Icons**      | `^5.3.0`                         | Reusable icons for the interface            |
+| **React Toastify**   | `^11.0.5`                        | Toast notifications and user feedback       |
 
 ## 🎯 Core Mechanics
 
